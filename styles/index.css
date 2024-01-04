@@ -1,0 +1,22 @@
+h3{
+    text-align: center;
+}
+
+.container{
+    display: grid;
+    justify-items: center;
+}
+
+.container a{
+    background-color: #555;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    margin: 5px;
+    width: 300px;
+    text-align: center;    
+}
+
+.container a:hover{
+    background-color: rgb(8, 146, 114);
+}
