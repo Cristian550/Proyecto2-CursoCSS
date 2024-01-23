@@ -21,5 +21,5 @@
     background: linear-gradient(to right, red, blue);
 }
 .imagen{
-    background-image: url(/assets/img/background-image.jpg);
+    background-image: url(./assets/img/background-image.jpg);
 }
